@@ -28,7 +28,9 @@ Acesse o tutorial no youtube clicando <a href="#">aqui</a>
   <img alt="GitHub" src="https://img.shields.io/github/license/eugustavo/youtube-tabbar-example.svg">
 </p>
 
-![](https://i.imgur.com/4qtMzxZ.gif)
+<p align="center">
+  <img alt="App" src="https://i.imgur.com/4qtMzxZ.gif">
+</p>
 
 
 ## :rocket: Getting started
