@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-Acesse o tutorial no youtube clicando <a href="#">aqui</a>
+Acesse o tutorial no youtube clicando <a href="https://www.youtube.com/watch?v=Z7gJpjalc6k">aqui</a>
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eugustavo/youtube-tabbar-example.svg">
