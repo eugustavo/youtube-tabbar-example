@@ -12,10 +12,8 @@ Acesse o tutorial no youtube clicando <a href="https://www.youtube.com/watch?v=Z
     <img alt="Likes" src="https://img.shields.io/youtube/likes/Z7gJpjalc6k?style=social" />
     <img alt="Comments" src="https://img.shields.io/youtube/comments/Z7gJpjalc6k?style=social" />
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eugustavo/youtube-tabbar-example.svg" />
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/1b577a07dda843aba09f4bc55d1af8fc.svg" />
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/eugustavo/youtube-tabbar-example.svg" />
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eugustavo/youtube-tabbar-example.svg" />
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eugustavo/youtube-tabbar-example.svg">
 </p>
 
 <p align="center">
